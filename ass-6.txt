@@ -1,0 +1,6 @@
+1. Create a heading (<h2>) with the text "Hello World". Using JavaScript, change the text to "Welcome to DOM Manipulation" when a button is clicked.
+2. Write a paragraph of text and a button. When the button is clicked, toggle the visibility of the
+paragraph (show ->hide ->show). Change the button text accordingly.
+3. Create three buttons: Red, Green, Blue. When a button is clicked, change the background color of a <div> accordingly. Before changing the color, ask confirmation from the user if they really want to change the background color.
+4. Create a simple counter with an input box and two buttons: + and -. + increases the value by 1. - decreases the value by 1 (not below 0).
+5. Design a form to take a number as input and, with the help of JS, check if the number is prime or not. Display the message in an alert box.
